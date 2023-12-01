@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.deef557f.chunk.css",
+    "main.js": "/static/js/main.c5a2b05f.chunk.js",
+    "main.js.map": "/static/js/main.c5a2b05f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.931c595f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.931c595f.js.map",
+    "static/js/2.673f6954.chunk.js": "/static/js/2.673f6954.chunk.js",
+    "static/js/2.673f6954.chunk.js.map": "/static/js/2.673f6954.chunk.js.map",
+    "static/js/3.346a030e.chunk.js": "/static/js/3.346a030e.chunk.js",
+    "static/js/3.346a030e.chunk.js.map": "/static/js/3.346a030e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.deef557f.chunk.css.map": "/static/css/main.deef557f.chunk.css.map",
+    "static/js/2.673f6954.chunk.js.LICENSE.txt": "/static/js/2.673f6954.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Ubuntu-Regular.f0c95172.woff2",
+    "static/media/Card.css": "/static/media/spade.38034ed3.png",
+    "static/media/click.592d20ca.mp3": "/static/media/click.592d20ca.mp3",
+    "static/media/error.01d29736.mp3": "/static/media/error.01d29736.mp3",
+    "static/media/four-suite.cb4412a2.png": "/static/media/four-suite.cb4412a2.png",
+    "static/media/App.css": "/static/media/green_back.d462aa16.jpg",
+    "static/media/klondike.0b0c4d53.png": "/static/media/klondike.0b0c4d53.png",
+    "static/media/one-suite.874a7aad.png": "/static/media/one-suite.874a7aad.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.931c595f.js",
+    "static/js/2.673f6954.chunk.js",
+    "static/css/main.deef557f.chunk.css",
+    "static/js/main.c5a2b05f.chunk.js"
+  ]
+}
